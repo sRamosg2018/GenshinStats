@@ -16,4 +16,4 @@ Nombre y descripción de cada una de las 4 o 5 entidades principales:
 
 Descripción de las funcionalidades del servicio interno: sería una implementación que mandaría un correo con las noticias más relevantes del genshin, como puede ser los nuevos banners, eventos, códigos, eventos web, etc
 
-Integrantes del equipo de desarrollo: Adrián Sanz Hervás- a.sanzh.2017@alumnos.urjc.es -AdrianSHURJC/ Raúl de la Fuente Carrasco- r.delafuente.2017@alumnos.urjc.es -maki01-cyber/  
+Integrantes del equipo de desarrollo: Adrián Sanz Hervás- a.sanzh.2017@alumnos.urjc.es -AdrianSHURJC/ Raúl de la Fuente Carrasco- r.delafuente.2017@alumnos.urjc.es -maki01-cyber/ Santiago Ramos Gómez- s.ramosg.2018@alumnos.urjc.es  - sRamosg2018
