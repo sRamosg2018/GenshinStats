@@ -6,6 +6,6 @@ y diferente para cada usuario: sitio web de consulta sobre el juego "Genshin Imp
 
 Nombre y descripción de cada una de las 4 o 5 entidades principales:  1. Personajes 2.Armas 3.Artefactos 4.Calculadora 5. Equipo
 
-Descripción de las funcionalidades del servicio interno
+Descripción de las funcionalidades del servicio interno: sería una implementación que mandaría un correo con las noticias más relevantes del genshin, como puede ser los nuevos banners, eventos, códigos, eventos web, etc
 
 Integrantes del equipo de desarrollo: Adrián Sanz Hervás- a.sanzh.2017@alumnos.urjc.es -AdrianSHURJC/ Raúl de la Fuente Carrasco- r.delafuente.2017@alumnos.urjc.es -maki01-cyber/  
