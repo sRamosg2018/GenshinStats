@@ -12,7 +12,7 @@ Nombre y descripción de cada una de las 4 o 5 entidades principales:
 
 4.Calculadora: Con esta calculadora se van a poder introducir las diferentes combinaciones de armas, personajes y artefactos para obtener una imagen con las estadísticas resultantes.
 
-5. Equipo: La entidad equipo le permiten guardar al usuario los diferentes equipos y las combinaciones con la calculadora. /
+5.Equipo: La entidad equipo le permiten guardar al usuario los diferentes equipos y las combinaciones con la calculadora. /
 
 Descripción de las funcionalidades del servicio interno: sería una implementación que mandaría un correo con las noticias más relevantes del genshin, como puede ser los nuevos banners, eventos, códigos, eventos web, etc
 
