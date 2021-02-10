@@ -15,7 +15,8 @@ y diferente para cada usuario: sitio web de consulta sobre el juego "Genshin Imp
 
 5.Equipo: La entidad equipo le permiten guardar al usuario los diferentes equipos y las combinaciones con la calculadora.
 
-## Descripción de las funcionalidades del servicio interno: sería una implementación que mandaría un correo con las noticias más relevantes del genshin, como puede ser los nuevos banners, eventos, códigos, eventos web, etc.
+## Descripción de las funcionalidades del servicio interno: 
+Sería una implementación que mandaría un correo con las noticias más relevantes del genshin, como puede ser los nuevos banners, eventos, códigos, eventos web, etc.
 
 ## Integrantes del equipo de desarrollo: 
 - Adrián Sanz Hervás- a.sanzh.2017@alumnos.urjc.es -AdrianSHURJC
